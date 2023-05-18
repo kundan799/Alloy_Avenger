@@ -38,9 +38,35 @@
   </thead>
   <tbody>
     <tr>
-       <td><img src="https://github.com/kundan799/Captain_Marvel/assets/101567147/3e655b8a-85a0-4aea-b4a3-6fa95c28ee2b.PNG" alt="register" /></td>
-       <td><img src="https://github.com/kundan799/Captain_Marvel/assets/101567147/69ff223d-7b9b-412d-8dfd-94691ee7eafb.PNG" alt="register" /></td>
+       <td><img src="https://github.com/kundan799/Alloy_Avenger/assets/101567147/4dba19ca-16f3-47f6-b4da-7ec604e4cfcd.PNG" alt="register" /></td>
+       <td><img src="https://github.com/kundan799/Alloy_Avenger/assets/101567147/937582dd-3c2f-4e22-a95c-84f9498355f5.PNG" alt="register" /></td>
     </tr>
    >
   </tbody>
 </table>
+
+## 🚀 Features
+- User can add data in this app
+- User data show in form of card
+- Responsiveness for all screen sizes
+
+
+## Run Locally :
+Clone the Project
+```
+https://github.com/kundan799/Alloy_Avenger
+``` 
+
+Install Dependencies
+```
+npm install
+```
+
+Run App
+```
+npm start
+```
+## Creators
+[![linkedin](https://img.shields.io/badge/kundankumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-kumar-keshri-04621b238/)
+[![Github](https://img.shields.io/badge/kundan799-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/kundan799)
+
